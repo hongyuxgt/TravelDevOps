@@ -2,7 +2,7 @@ applications:
 - path: .
   memory: 256M
   instances: 1
-  domain: bluemix.net
+  domain: ng.bluemix.net
   name: devops-training
   host: devops-training
   disk_quota: 1024M
